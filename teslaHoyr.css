@@ -207,7 +207,6 @@ nav {
 .header {
   background: #00000005;
   width: 100%;
-  color: white;
   position: fixed;
   text-align: center;
   top: 0;
@@ -219,9 +218,9 @@ nav {
 }
 
 /*header heseg*/
-
 .header span {
   padding: 6px 16px;
+  color: white;
 }
 
 .header .teslaLogo {
